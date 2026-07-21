@@ -76,20 +76,6 @@ The datasets are related using **Order ID**.
 
 ---
 
-## Project Structure
-
-```text
-Sales-Performance-Dashboard/
-│
-├── Dataset/
-│   ├── Orders.csv
-│   └── Details.csv
-│
-├── Sales Dashboard/
-│   └── Sales-Performance-Dashboard.pbix
-│
-└── README.md
-```
 
 ---
 
