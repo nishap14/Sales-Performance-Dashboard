@@ -95,5 +95,8 @@ Sales-Performance-Dashboard/
 
 ## Dashboard Preview
 <img width="1600" height="901" alt="img1" src="https://github.com/user-attachments/assets/2ec58b15-41a1-4abe-8b24-c462bb4a1d72" />
+<img width="1547" height="870" alt="img3" src="https://github.com/user-attachments/assets/6a9bf6ef-785b-478e-8826-18254d6fb7ce" />
+<img width="1552" height="871" alt="img2" src="https://github.com/user-attachments/assets/df345d85-1ed3-49cd-aabe-791f02df2cd4" />
+
 
 
